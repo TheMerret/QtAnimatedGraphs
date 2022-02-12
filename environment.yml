@@ -1,0 +1,11 @@
+name: QtAnimatedGraphs
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - nomkl
+  - pyqtgraph
+  - sympy
+  - pip:
+    - pyqt5
